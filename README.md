@@ -1,16 +1,15 @@
+<div id="inicio"></div>
 # Nome do example_flutter_desktop
 
-<img src="https://i.imgur.com/8Frqef7.png" alt="exemplo imagem">
+<img src="https://i.imgur.com/8Frqef7.png" alt="exemplo imagem" width="450"> <img src="https://i.imgur.com/GJfEYx6.gif" alt="exemplo imagem" width="450">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Esse projeto serve de exemplo como o Flutter é executado no Windows. Foi utilizado os packages bitsdojo_window, fl_chart e flutter_svg.
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Você instalou a versão mais recente de `flutter`
+* Você tem uma máquina `Windows`. O código não foi testado em `Linux` e `MacOS`.
 
 ## 🚀 Instalando example_flutter_desktop
 
@@ -34,7 +33,6 @@ Para usar example_flutter_desktop, siga estas etapas:
 flutter run -d windows
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
 ## 🤝 Colaboradores
 
@@ -54,4 +52,4 @@ Agradecemos à seguinte pessoa que contribuiu para este projeto:
 </table>
 
 
-[⬆ Voltar ao topo](#nome-do-projeto)<br>
+[⬆ Voltar ao topo](#inicio)<br>

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gerenciador_ti/home/right/components/item_info.dart';
+import 'package:example_flutter_desktop/home/right/components/item_info.dart';
 
 class InfomationRight extends StatefulWidget {
   const InfomationRight({Key? key}) : super(key: key);

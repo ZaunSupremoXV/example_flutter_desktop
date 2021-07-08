@@ -1,6 +1,6 @@
 import 'package:bitsdojo_window/bitsdojo_window.dart';
 import 'package:flutter/material.dart';
-import 'package:gerenciador_ti/shared/themes/color.dart';
+import 'package:example_flutter_desktop/shared/themes/color.dart';
 
 import 'components/list_home.dart';
 

@@ -1,8 +1,8 @@
 import 'package:bitsdojo_window/bitsdojo_window.dart';
 import 'package:flutter/material.dart';
-import 'package:gerenciador_ti/home/left/left_side.dart';
-import 'package:gerenciador_ti/home/right/right_side.dart';
-import 'package:gerenciador_ti/shared/themes/color.dart';
+import 'package:example_flutter_desktop/home/left/left_side.dart';
+import 'package:example_flutter_desktop/home/right/right_side.dart';
+import 'package:example_flutter_desktop/shared/themes/color.dart';
 
 void main() {
   runApp(MyApp());

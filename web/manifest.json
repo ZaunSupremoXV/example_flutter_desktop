@@ -1,6 +1,6 @@
 {
-    "name": "gerenciador_ti",
-    "short_name": "gerenciador_ti",
+    "name": "example_flutter_desktop",
+    "short_name": "example_flutter_desktop",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

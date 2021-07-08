@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.15)
-project(gerenciador_ti LANGUAGES CXX)
+project(example_flutter_desktop LANGUAGES CXX)
 
-set(BINARY_NAME "gerenciador_ti")
+set(BINARY_NAME "example_flutter_desktop")
 
 cmake_policy(SET CMP0063 NEW)
 

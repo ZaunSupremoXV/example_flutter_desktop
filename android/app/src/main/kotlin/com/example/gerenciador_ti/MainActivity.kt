@@ -1,4 +1,4 @@
-package com.example.gerenciador_ti
+package com.example.example_flutter_desktop
 
 import io.flutter.embedding.android.FlutterActivity
 

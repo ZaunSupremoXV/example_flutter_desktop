@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gerenciador_ti/shared/themes/color.dart';
+import 'package:example_flutter_desktop/shared/themes/color.dart';
 
 class ItemInformation extends StatefulWidget {
   final String title;

@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.gerenciador_ti">
+    package="com.example.example_flutter_desktop">
    <application
-        android:label="gerenciador_ti"
+        android:label="example_flutter_desktop"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
